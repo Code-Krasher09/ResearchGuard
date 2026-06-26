@@ -31,3 +31,4 @@ models/
 # Temporary files
 scratch/
 export.json
+docs/
